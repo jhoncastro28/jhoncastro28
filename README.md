@@ -103,14 +103,6 @@ const jhonCastro = {
 
 ---
 
-## 📞 ¡Conectemos!
-
-<div align="center">
-
-**¿Tienes un proyecto interesante? ¡Hablemos!**
-
----
-
 <img src="https://komarev.com/ghpvc/?username=jhoncastro28&color=blueviolet&style=for-the-badge&label=VISITORS" alt="Visitantes del perfil"/>
 
 ⭐ **¡No olvides darle star a los repositorios que te gusten!** ⭐
