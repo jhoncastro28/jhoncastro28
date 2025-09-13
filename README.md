@@ -4,9 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Especialista+en+Backend;Entusiasta+del+Cloud;Siempre+aprendiendo+algo+nuevo!)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](tu-linkedin-aqui)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tu-email-aqui)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](tu-portfolio-aqui)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/jhon-castro28)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jhoncastrom28@gmail.com)
 
 </div>
 
@@ -47,12 +46,9 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones tecnológica
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🎨 Herramientas & Otros
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
@@ -69,17 +65,6 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones tecnológica
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhoncastro28&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎯 Proyectos Destacados
-
-<div align="center">
-
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=jhoncastro28&repo=nombre-proyecto-1&theme=radical&hide_border=true)](https://github.com/jhoncastro28/nombre-proyecto-1)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=jhoncastro28&repo=nombre-proyecto-2&theme=radical&hide_border=true)](https://github.com/jhoncastro28/nombre-proyecto-2)
 
 </div>
 
@@ -109,16 +94,6 @@ const jhonCastro = {
 
 ---
 
-## 🎖️ Logros GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jhoncastro28&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌟 ¿Qué me diferencia?
 
 - **💡 Innovación Constante**: Siempre busco nuevas tecnologías y mejores prácticas
@@ -134,9 +109,6 @@ const jhonCastro = {
 
 **¿Tienes un proyecto interesante? ¡Hablemos!**
 
-[![LinkedIn](https://img.shields.io/badge/-Conectar%20en%20LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](tu-linkedin-aqui)
-[![Email](https://img.shields.io/badge/-Enviar%20Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tu-email-aqui)
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=jhoncastro28&color=blueviolet&style=for-the-badge&label=VISITORS" alt="Visitantes del perfil"/>
@@ -149,6 +121,6 @@ const jhonCastro = {
 
 <div align="center">
 
-*"El código es poesía escrita en lógica"* ✨
+*"La noche es más oscura cuando está a punto de amanecer :)"* ✨
 
 </div>
