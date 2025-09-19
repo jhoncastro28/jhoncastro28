@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
 # ¡Hola! 👋 Soy Jhon Castro
 
 <div align="center">
@@ -39,7 +43,7 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones tecnológica
 
 ### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️ Cloud & DevOps
@@ -92,7 +96,7 @@ const jhonCastro = {
 
 </div>
 
-### 🐍 Contribuciones en Acción
+### 🐍 Contribuciones
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jhoncastro28/jhoncastro28/output/snake.svg" alt="Snake animation" />
@@ -109,6 +113,8 @@ const jhonCastro = {
 
 ---
 
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=jhoncastro28&color=blueviolet&style=for-the-badge&label=VISITORS" alt="Visitantes del perfil"/>
 
 ⭐ **¡No olvides darle star a los repositorios que te gusten!** ⭐
@@ -124,5 +130,5 @@ const jhonCastro = {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&animation=fadeIn"/>
 </div>
