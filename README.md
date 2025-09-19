@@ -17,7 +17,7 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones tecnológica
 
 - 🔭 Actualmente trabajando en: **Proyectos con Spring Boot y React**
 - 🌱 Aprendiendo: **Arquitecturas de Microservicios y DevOps avanzado**
-- 👯 Busco colaborar en: **Proyectos Open Source y startups**
+- 👯 Busco colaborar en: **Proyectos Open Source y startups**, poder aportar con mis habilidades y conocimientos.
 - 💬 Pregúntame sobre: **Java, Spring Boot, Node.js, React**
 - ⚡ Dato curioso: **Me encanta resolver problemas complejos con código limpio**
 
@@ -119,6 +119,10 @@ const jhonCastro = {
 
 <div align="center">
 
-*"La noche parece más oscura cuando está a punto de amanecer :)"* ✨
+*"La noche es más oscura cuando está a punto de amanecer :)"* ✨
 
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
 </div>
