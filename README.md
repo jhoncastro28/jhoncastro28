@@ -92,6 +92,12 @@ const jhonCastro = {
 
 </div>
 
+### 🐍 Contribuciones en Acción
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jhoncastro28/jhoncastro28/output/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 🌟 ¿Qué me diferencia?
@@ -113,6 +119,6 @@ const jhonCastro = {
 
 <div align="center">
 
-*"La noche es más oscura cuando está a punto de amanecer :)"* ✨
+*"La noche parece más oscura cuando está a punto de amanecer :)"* ✨
 
 </div>
